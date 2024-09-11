@@ -65,7 +65,9 @@ My approach to learning **Machine Learning** is based on:
     \[
     MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y})^2
     \]
-![0_ZhAmjNNuUUDU3kc0](https://github.com/user-attachments/assets/95d64432-0e25-44ca-a259-24bec2b82a20)
+
+    
+-![0_ZhAmjNNuUUDU3kc0](https://github.com/user-attachments/assets/95d64432-0e25-44ca-a259-24bec2b82a20)
 
 
 ---
@@ -83,8 +85,7 @@ My approach to learning **Machine Learning** is based on:
     \text{Maximize} \ \frac{2}{||w||} \ \text{subject to} \ y_i(w^T x_i + b) \geq 1
     \]
   - For **regression**, SVM minimizes the error while fitting a function that has deviations within a certain margin \( \epsilon \).
-  - ![1718266257027]
-  (https://github.com/user-attachments/assets/cb0fe2a4-a7e3-40a1-8b82-dc03ba76145e)
+  - ![1718266257027](https://github.com/user-attachments/assets/cb0fe2a4-a7e3-40a1-8b82-dc03ba76145e)
 
 
 ---
@@ -107,6 +108,7 @@ My approach to learning **Machine Learning** is based on:
     \[
     P(y=1|x) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x_1 + \dots + \beta_n x_n)}}
     \]
+    
 ![images](https://github.com/user-attachments/assets/f8a1181f-d6a8-4430-a386-13f5017c6643)
 
 
